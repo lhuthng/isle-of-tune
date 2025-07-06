@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite & SvelteKit
+.vite/
+.svelte-kit/
+
+# Logs
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor settings (optional)
+.vscode/
+.idea/
